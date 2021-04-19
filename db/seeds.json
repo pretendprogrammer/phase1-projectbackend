@@ -1,30 +1,36 @@
-[{
-  "id": 1,
-  "title":"Zero Gravity Gymnastics",
-  "channel": "Shawn Johnson",
-  "url": "https://www.youtube.com/watch?v=gR2Y69x_w9c",
-  "likes": 0,
-  "reviews": ["Gives me heebie geebies."]
-},
-{
-  "id": 1,
-  "title":"Dusty Muffin",
-  "channel": "Satruday Night Live",
-  "url": "https://www.youtube.com/watch?v=F_tVJ2rHHSA",
-  "likes": 0,
-  "reviews": ["Funny."]
-},{
-  "id": 1,
-  "title":"Alien Sounds",
-  "channel": "PewDiePie",
-  "url": "https://www.youtube.com/watch?v=-hlQHYtncww&t=52s",
-  "likes": 0,
-  "reviews": ["Sounds weird"]
-},{
-  "id": 1,
-  "title":"Calming Music Over PS1 Hagrid’s Face",
-  "channel": "Butter Slice",
-  "url": "https://www.youtube.com/watch?v=SIGW3HAPPGk&t=416s",
-  "likes": 0,
-  "reviews": ["Pretty chill."]
-}]
+{"videos":
+  [{
+    "id": 1,
+    "title":"Zero Gravity Gymnastics",
+    "channel": "Shawn Johnson",
+    "url": "https://www.youtube.com/watch?v=gR2Y69x_w9c",
+    "image": "https://i.imgur.com/zz6mGQQb.jpg",
+    "likes": 0,
+    "reviews": ["Gives me heebie geebies."]
+  },
+  {
+    "id": 2,
+    "title":"Dusty Muffin",
+    "channel": "Satruday Night Live",
+    "url": "https://www.youtube.com/watch?v=F_tVJ2rHHSA",
+    "image": "https://i.imgur.com/BMYIDfVb.jpg",
+    "likes": 0,
+    "reviews": ["Funny."]
+  },{
+    "id": 3,
+    "title":"Alien Sounds",
+    "channel": "PewDiePie",
+    "url": "https://www.youtube.com/watch?v=-hlQHYtncww&t=52s",
+    "image": "https://i.imgur.com/Cv7HNOHb.jpg",
+    "likes": 0,
+    "reviews": ["Sounds weird"]
+  },{
+    "id": 4,
+    "title":"Calming Music Over PS1 Hagrid’s Face",
+    "channel": "Butter Slice",
+    "url": "https://www.youtube.com/watch?v=SIGW3HAPPGk&t=416s",
+    "image": "https://i.imgur.com/ZjqgfrCb.jpg",
+    "likes": 0,
+    "reviews": ["Pretty chill."]
+  }]
+}
